@@ -18,7 +18,7 @@ body {background: #fff}
 p {color: #000; font-size: 13px}
 p.welcome_text {font-size: 180%; text-align:center; font-weight: normal; font-family:Georgia, "Times New Roman", Times, serif; font-style:italic}
 
-h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal}
+h1,h2,h3,h4 {font-family:'Open Sans Condensed'; src: url('../OpenSans-CondBold.ttf'); font-weight: normal}
 .heading_dots {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_dots_grey {background: url(../images/heading_dots_grey.png) repeat-x center}
 .heading_bg {background:#FFF; padding: 0 6px 0 0}
